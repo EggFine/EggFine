@@ -8,7 +8,7 @@ Throughout my learning and professional development, I've been fortunate to achi
 - 🏅 9th place in the Anhui Province selection for the 2022 BRICS and Belt and Road Initiative Vocational Skills Competition (Information Security)
 - 🥇 First place and first-class award in the 2022-2023 Anhui Province "Bank of China Cup" Vocational School Skills Competition
 - 🥇 First place in the 2023 China Skills Anhui Province selection competition
-- 🏆 First-class award in the 2023 China Skills national competition
+- 🥈 Second-class award in the 2023 China Skills national competition
 
 Beyond my professional skills, I have numerous personal interests 🎮. I'm passionate about Minecraft ⛏️ and enjoy other single-player games like Arknights 🎭 and Cyberpunk 2077 🌆. These games not only provide entertainment but also inspire my creativity and technical innovation 💡.
 
