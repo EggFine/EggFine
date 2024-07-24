@@ -50,6 +50,8 @@ Throughout my academic and professional journey, I've been fortunate to achieve 
 - 🥇 First place in the 2023 China Skills Anhui Province selection competition
 - 🥈 Second-class award in the 2023 China Skills national competition
 
+<img src="./img/1.jpg" alt="Alt text" width="300" height="400"><img src="./img/2.png" alt="Alt text" width="400" height="300">
+
 Beyond my professional skills, I have numerous personal interests 🎮. I'm passionate about Minecraft ⛏️ and enjoy other single-player games like Arknights 🎭 and Cyberpunk 2077 🌆. These games not only provide entertainment but also inspire my creativity and technical innovation 💡.
 
 Currently, I'm focusing on developing plugins for Minecraft 🧩, primarily based on the Spigot and Folia APIs. If you're interested in my work, feel free to check out my projects on the SpigotMC platform 🔍.
@@ -57,3 +59,5 @@ Currently, I'm focusing on developing plugins for Minecraft 🧩, primarily base
 In addition to my technical explorations, I've also embarked on an entrepreneurial journey. I've founded a company in Fuyang called Fuyang Blbilink Co., Ltd. 🏢. This company serves as a platform for me to transform my passion for technology into practical business applications, and I hope to contribute to the local technological development through it.
 
 I firmly believe that technology has the power to change the world 🌍, and I aspire to contribute to this ever-evolving digital landscape through continuous learning, innovation, and entrepreneurship 🚀.
+
+<img src="./img/3.jpg" alt="Alt text" width="420" height="300"><img src="./img/4.jpg" alt="Alt text" width="420" height="300"><img src="./img/5.jpg" alt="Alt text" width="420" height="300">
