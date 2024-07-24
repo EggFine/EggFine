@@ -1,6 +1,8 @@
 # **Hello! Nice to meet you 👋**
 
-#### **I'm EggFine 🌟**, ![Static Badge](https://img.shields.io/badge/Alive%20%26%20Hardworking-green?style=for-the-badge&label=Status)
+### **I'm EggFine 🥚**,
+
+ ![Static Badge](https://img.shields.io/badge/Alive%20%26%20Hardworking-green?style=for-the-badge&label=Status)
 
 hailing from Fuyang city in Anhui province, China 🇨🇳. My programming journey began at the age of 7 when I first encountered E Programming Language and started developing projects 👨‍💻. As I delved deeper into my studies, my skill set expanded to encompass multiple domains:
 
