@@ -2,19 +2,39 @@
 
 I'm EggFine 🌟, hailing from Fuyang city in Anhui province, China 🇨🇳. My programming journey began at the age of 7 when I first encountered E Programming Language and started developing projects 👨‍💻. As I delved deeper into my studies, my skill set expanded to encompass multiple domains:
 
-🎬 Video Editing: Proficient in Premiere Pro 🎨 Graphic Design: Skilled in CorelDRAW 🖥️ System Operations: Extensive experience with both Windows and Linux systems
+🎬 Video Editing: Proficient in Premiere Pro 
+
+🎨 Graphic Design: Skilled in CorelDRAW 
+
+🖥️ System Operations: Extensive experience with both Windows and Linux systems
 
 I'm well-versed in operating systems ranging from Windows XP to Windows 11, and Windows Server 2003 to 2025. On the Linux side, I'm proficient in CentOS 7 to Stream 9, Rocky 8 to 9, and Ubuntu 22 to 23. My expertise covers a wide array of network services and technologies, including but not limited to:
 
 🔧 Web Servers: IIS, Apache, Nginx 
+
 🗄️ File Services: Vsftp, Samba, FTP, WebDAV
+
 🐳 Containerization: Docker 
+
 🖧 Network Services: DNS, DHCP, NFS, iSCSI 
+
 🔐 Security Technologies: Firewall configuration, Redis security 
+
 💾 Storage Technologies: Disk arrays, Volume Shadow Copy 
+
 🖥️ Virtualization: Qemu, Virtinst, OpenStack
 
-In the realm of network security, I've mastered various penetration testing techniques: 🔓 SQL injection 🔑 Weak password cracking 🕸️ XSS (Cross-Site Scripting) 🕵️ Packet analysis using Burp Suite 🐚 Proficient use of various WebShell tools (like China Chopper, AntSword)
+In the realm of network security, I've mastered various penetration testing techniques: 
+
+🔓 SQL injection 
+
+🔑 Weak password cracking 
+
+🕸️ XSS (Cross-Site Scripting) 
+
+🕵️ Packet analysis using Burp Suite 
+
+🐚 Proficient use of various WebShell tools (like China Chopper, AntSword)
 
 As a tech enthusiast, I'm also passionate about mobile device customization. I've used root tools and frameworks like SuperSU (in the early days), Xposed, LSPosed, KernelSU, and Magisk. During the more open periods of Android systems, I experimented with various third-party ROMs such as Mokee and CyanogenMod (CM).
 
